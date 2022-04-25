@@ -1,1 +1,1 @@
-# odin_LandingPage
+# Landing Page by The Odin Project
