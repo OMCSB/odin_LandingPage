@@ -1,0 +1,40 @@
+:root {
+    --mainText: #f9faf8;
+    --secondaryText: #e5e7eb;
+    --buttonColor: #3882f6;
+    --darkBlueBG: #1f2937;
+
+}
+
+body{
+    height: 100%;
+    overflow: scroll;
+}
+
+.section_1 {
+    background-color: var(--darkBlueBG);
+    position: static;
+    width: 100%;
+    height: 25vw;
+}
+
+.footer{
+    background-color: var(--darkBlueBG);
+    position: static;
+    width: 100%;
+    height: 3vw;
+}
+
+.section_2{
+    background-color: azure;
+}
+
+.section_3{
+    background-color: var(--secondaryText);
+}
+
+.top_navbar_1{
+    background-color: #1f2937;
+    position: sticky;
+    color: var(--secondaryText);
+}
